@@ -34,7 +34,7 @@ Neste jogo, o jogador deve memorizar uma mensagem vital e reproduzi-la corretame
 <h2> Licença </h2>
 <ul>
   <li>
-    Este projeto está licenciado sob a MIT Licence.
+    Este projeto está licenciado sob a MIT Licence. Veja o arquivo LICENSE para mais detalhes.
   </li>
 </ul>
 <p align="center">
